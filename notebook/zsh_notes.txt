@@ -1,0 +1,2808 @@
+    1  ls
+    2  cd Applications
+    3  cd
+    4  ls
+    5  cd D
+    6  cd Desktop
+    7  ls
+    8  cd treehouseExpress
+    9  ls
+   10  cd express-basics
+   11  subl
+   12  ls
+   13  git init
+   14  git status
+   15  mkdir src
+   16  ls
+   17  cd src
+   18  ls
+   19  $PATH
+   20  echo $PATH
+   21  ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime
+   22  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime
+   23  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/local/git/bin/sublime
+   24  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime
+   25  sublime
+   26  ls
+   27  sublime app.js
+   28  node src/app
+   29  node src/app.js
+   30  ls
+   31  cd
+   32  ccd
+   33  cd
+   34  ls
+   35  cd Desktop
+   36  cd treehouseExpress
+   37  cd express-basics
+   38  ls
+   39  cd src
+   40  ls
+   41  node src/app
+   42  node src/app.js
+   43  node app.js
+   44  git checkout addingRoutesToTheApp
+   45  ls
+   46  cd
+   47  ls
+   48  cd D
+   49  cd Desktop
+   50  ls
+   51  cd treehouseExpress
+   52  cd express-basics
+   53  help
+   54  cd ..
+   55  git clone https://github.com/hdngr/treehouse-express-basics.git express-basics
+   56  ls
+   57  rmdir express-basics
+   58  ls
+   59  rmdir express-basics
+   60  git pull https://github.com/hdngr/treehouse-express-basics.git express-basics
+   61  git checkout addingRoutesToTheApp
+   62  ls
+   63  cd express-basics
+   64  git checkout addingRoutesToTheApp
+   65  npm install
+   66  git checkout addingRoutesToTheApp
+   67  ls
+   68  rm .gitignore
+   69  ls
+   70  git checkout addingRoutesToTheApp
+   71  ls
+   72  cd src
+   73  ls
+   74  sublime
+   75  ls
+   76  node app
+   77  npm install express
+   78  npm install express --save
+   79  node app
+   80  npm install -g nodemon
+   81  cd
+   82  npm install -g nodemon
+   83  cd
+   84  ls
+   85  view
+   86  npm install -g nodemon
+   87  sudo chown -R $USER /usr/local
+   88  npm install -g nodemon
+   89  npm install -g node-inspector
+   90  cd Desktop
+   91  ls
+   92  cd treehouseExpress
+   93  ls
+   94  cd express-basics
+   95  cdsrc
+   96  cd src
+   97  nodemon app
+   98  nodemon app.js
+   99  node debug app.js
+  100  nodemon app.js
+  101  node debug app.js
+  102  git checkout interactiveDebuggingAndExploratoryProgramming
+  103  rm app.js
+  104  git checkout interactiveDebuggingAndExploratoryProgramming
+  105  ls
+  106  sublime app.js
+  107  node debug app.js
+  108  node -debug app.js
+  109  node-debug app.js
+  110  nodemon app.js
+  111  node-debug app.js
+  112  node-inspector
+  113  nodemon --debug app.js
+  114  ls
+  115  git checkout requests
+  116  rm app.js
+  117  git checkout requests
+  118  nodemon --debug app.js
+  119  node-inspector
+  120  ls
+  121  rm app.js
+  122  git checkout whatIsJade
+  123  npm install jade --save
+  124  ls
+  125  rm app.js
+  126  git checkout usingJade
+  127  ls
+  128  git checkout usingJade
+  129  rm package.json
+  130  git checkout usingJade
+  131  mkdir src/templates
+  132  ls
+  133  cd
+  134  cd ..
+  135  ls
+  136  cd henrybi
+  137  cd Desktop
+  138  ls
+  139  cd treehouseExpress/
+  140  cd express-basics
+  141  mkdir src/templates
+  142  ls
+  143  ls src
+  144  nodemon src/app.js
+  145  git checkout responseRenderMethod
+  146  rm app.js
+  147  ls
+  148  cd src
+  149  ls
+  150  rm app.js
+  151  git checkout responseRenderMethod
+  152  .. cd
+  153  cd ..
+  154  ls
+  155  cd src
+  156  ls
+  157  cd templates
+  158  ls
+  159  rm index.jade
+  160  git checkout responseRenderMethod
+  161  cd ..
+  162  ls
+  163  nodemon app.js
+  164  git checkout responseRenderMethod
+  165  git checkout scaffoldingYourProject
+  166  npm install express
+  167  clear
+  168  cd
+  169  ls
+  170  cd Desktop
+  171  ls
+  172  mkdir codefellows301
+  173  ls
+  174  cd codefellows301
+  175  git clone https://github.com/codefellows/sea-301-d2
+  176  ls
+  177  cd sea-301-d2
+  178  ls
+  179  cd class-0
+  180  cd class-01-jquery-and-the-dom
+  181  ls
+  182  cd lecture
+  183  ls
+  184  cd ..
+  185  ls
+  186  cd portfolio-assignment
+  187  ls
+  188  cd ..
+  189  ls
+  190  cd pair-assignment
+  191  ls
+  192  atom starter-code
+  193  npm -g i eslint live-server
+  194  npm list -g --depth=0
+  195  ls
+  196  cd starter-code
+  197  ls
+  198  cd
+  199  ls
+  200  cd Desktop
+  201  cd codefellows301
+  202  ls
+  203  cd sea-301-d2
+  204  ls
+  205  cd ..
+  206  ls
+  207  rmdir sea-301-d2
+  208  git-rm sea-301-d2
+  209  rm sea-301-d2
+  210  ls
+  211  git clone https://github.com/honghaobi/sea-301-d2.git
+  212  ls
+  213  cd sea-301-d2
+  214  ls
+  215  git remote add upstream https://github.com/honghaobi/sea-301-d2.git
+  216  git pull upstream master
+  217  ls
+  218  cd class-01-jquery-and-the-dom
+  219  ls
+  220  cd pair-assignment
+  221  ls
+  222  atom .
+  223  ls
+  224  cd ..
+  225  ls
+  226  cd pair-assignment
+  227  ls
+  228  cd starter-code
+  229  ls
+  230  cd ..
+  231  ls
+  232  cp starter-code/ henry-brandon/
+  233  cp starter-code/henry-brandon/
+  234  cp starter-code henry-brandon/
+  235  cp starter-code/henry-brandon/
+  236  ls
+  237  mkdir henry-brandon
+  238  cd henry-brandon
+  239  cp starter-code/henry-brandon/
+  240  cp starter-code/ henry-brandon/
+  241  ls
+  242  cd ..
+  243  cp starter-code/ henry-brandon/
+  244  ls
+  245  cp starter-code/ henry-brandon/
+  246  cp starter-code/
+  247  cp-r  starter-code/ henry-brandon/
+  248  cp starter-code/ henry-brandon/
+  249  ls
+  250  rm-dir henry-brandon
+  251  rm
+  252  rm henry-brandon
+  253  cd par
+  254  ls
+  255  cd starter-code
+  256  ls
+  257  mkdir henry-brandon
+  258  ls
+  259  cd ..
+  260  ls
+  261  cp starter-code/henry-brandon/
+  262  cd henry-brandon
+  263  ls
+  264  cd ..
+  265  ls
+  266  cd starter-code
+  267  ls
+  268  cd ..
+  269  ls
+  270  git rm henry-brandon
+  271  rmdir henry-brandon
+  272  ls
+  273  cp starter-code henry-brandon
+  274  cp starter-code/ starter-code/henry-brandon
+  275  cp starter-code/starter-code/henry-brandon
+  276  cp starter-code/ starter-code/henry-brandon
+  277  ls
+  278  cp -r starter-code/ henry-brandon/
+  279  ls
+  280  cd henry-brandon
+  281  ls
+  282  atom .
+  283  ls
+  284  cd henry-brandon
+  285  ls
+  286  cd ..
+  287  ls
+  288  cd ..
+  289  ls
+  290  cd henry-brandon
+  291  ls
+  292  rm -rf henry-brandon
+  293  ls
+  294  git clone https://github.com/Brandon-Parker/sea-301-d2
+  295  ls
+  296  cd Desktop
+  297  ls
+  298  cd codefellows301
+  299  ls
+  300  cd sea-301-d2
+  301  ls
+  302  cd class-01
+  303  cd class-01-jquery-and-the-dom
+  304  ls
+  305  cd pair-assignment
+  306  ls
+  307  cd henry-brandon
+  308  ls
+  309  git remote -v
+  310  git remove upstream
+  311  git remove remote upstream
+  312  ls
+  313  git remote remove upstream
+  314  git remote add upstream git-url-here
+  315  gir remote add upstream github.com/codefellows/sea-301-d2
+  316  git remote add upstream github.com/codefellows/sea-301-d2
+  317  git remote remove upstream
+  318  git remote add upstream github.com/codefellows/sea-301-d2
+  319  git remote -v
+  320  ls
+  321  cd ..
+  322  ls
+  323  cd henry-brandon
+  324  git pull origin master
+  325  ls
+  326  cd ..
+  327  ls
+  328  cd henry-brandon
+  329  git status
+  330  git pull origin master
+  331  ls
+  332  cd ..
+  333  ls
+  334  cd henry-brandon
+  335  ls
+  336  atom .
+  337  ls
+  338  git add .
+  339  git status
+  340  git commit -m 'initial commit'
+  341  git push origin master
+  342  ls
+  343  atom .
+  344  ls
+  345  atom .
+  346  ls
+  347  cd ..
+  348  atom .
+  349  atom
+  350  cd henry-brandon
+  351  ls
+  352  atom .
+  353  ls
+  354  cd Desktop
+  355  ls
+  356  cd codefellows301
+  357  ls
+  358  cd sea-301-d2
+  359  ls
+  360  cd class-01-jquery-and-the-dom
+  361  ls
+  362  cd pair-assignment
+  363  ls
+  364  cd henry-brandon
+  365  atom .
+  366  echo "# portfolio" >> README.md
+  367  git init
+  368  git add README.md
+  369  git commit -m "first commit"
+  370  git remote add origin https://github.com/honghaobi/portfolio.git
+  371  git push -u origin master
+  372  ls
+  373  Readme
+  374  ls
+  375  cd ..
+  376  cd
+  377  cd D
+  378  cd Desktop
+  379  cd codefellows301
+  380  ls
+  381  mkdir portfolio
+  382  git pull
+  383  ls
+  384  cd portfolio
+  385  git clone https://github.com/honghaobi/portfolio.git
+  386  git branch class-01
+  387  git remote add origin https://github.com/honghaobi/portfolio.git
+  388  ls
+  389  cd portfolio
+  390  cd ..
+  391  ls
+  392  cd portfolio
+  393  git branch class-01
+  394  ls
+  395  git branch
+  396  git checkout class-01
+  397  git branch
+  398  echo index.html
+  399  echo .eslinrc
+  400  atom .
+  401  ls
+  402  cd por
+  403  ls
+  404  cd ..
+  405  ls
+  406  cd portfolio
+  407  ls
+  408  git checkout master
+  409  git branch
+  410  ls
+  411  git checkout class-01
+  412  ls
+  413  cd Desktop
+  414  cd d
+  415  ls
+  416  cd Desktop
+  417  ls
+  418  cd codefellows301
+  419  ls
+  420  cd portfolio
+  421  ls
+  422  echo .eslintrc
+  423  ls
+  424  atom .eslintrc
+  425  ls
+  426  cd ..
+  427  ls
+  428  cd sea-301-d2
+  429  ls
+  430  cd class-01-jquery-and-the-dom
+  431  ls
+  432  cd portfolio-assignment
+  433  ls
+  434  cd ..
+  435  ls
+  436  cd pair-assignment
+  437  ls
+  438  cd henry-brandon
+  439  atom .
+  440  ls
+  441  git push -u origin class-01
+  442  git branch
+  443  git checkout master
+  444  git pull
+  445  git status
+  446  git branch
+  447  git checkout class-01
+  448  git status
+  449  git add .
+  450  git status
+  451  git commit -m 'created initial wireframe folder structure'
+  452  git push -u origin class-01
+  453  git checkout master
+  454  git merge class-01
+  455  git status
+  456  ls
+  457  cd ..
+  458  ls
+  459  cd sea-301-d2
+  460  ls
+  461  cd class-01-jquery-and-the-dom
+  462  ls
+  463  cd pair-assignment
+  464  ls
+  465  cd henry-brandon
+  466  atom .
+  467  ls
+  468  cd ..
+  469  ls
+  470  cd ..
+  471  git pull upstream master
+  472  git remote -v
+  473  git remote remove upstream
+  474  git remote add upstream github.com/codefellows/sea-301-d2
+  475  ls
+  476  get remote -v
+  477  git remote -v
+  478  git pull upstream master
+  479  ls
+  480  git pull upstream master
+  481  get remote -v
+  482  git remote -v
+  483  git pull upstream master
+  484  git remote remove upstream
+  485  git remote add upstream github.com/codefellows/sea-301-d2.git
+  486  git pull upstream master
+  487  git remote -v
+  488  git remote remove upstream
+  489  git remote -v
+  490  ls
+  491  cd Desktop
+  492  cd codefellows301
+  493  ls
+  494  cd sea-301-d2
+  495  ls
+  496  git remote -v
+  497  git remote add upstream https://github.com/codefellows/sea-301-d2
+  498  git pull upstream master
+  499  ls
+  500  cd class-02
+  501  cd class-02-jquery-and-events
+  502  ls
+  503  cd pair-assignment
+  504  ls
+  505  cd starter-codez
+  506  atom .
+  507  ls cd ..
+  508  cd ..
+  509  cd .
+  510  cd ..
+  511  ls
+  512  cd ..
+  513  ls
+  514  cd ..
+  515  ls
+  516  cd portfolio
+  517  atom .
+  518  ls
+  519  cd
+  520  ls Desktop
+  521  cd code
+  522  ls
+  523  cd Desktop
+  524  ls
+  525  cd codefellows301
+  526  ls
+  527  cd sea-301-d2
+  528  git pull origin master
+  529  ls
+  530  cd class-02-jquery-and-events
+  531  ls
+  532  cd pair-assignment
+  533  ls
+  534  cd starter-codez
+  535  ls
+  536  atom .
+  537  ls
+  538  cd ..
+  539  cp starter-codez/ henry-adam/
+  540  ls
+  541  mkdir henry-adam
+  542  ls
+  543  cp starter-codez/ henry-adam/
+  544  cp starter-codez/henry-adam/
+  545  cp starter-codez/ henry-adam
+  546  ls
+  547  cp -r starter-codez/ henry-adam/
+  548  ls
+  549  cd henry-adam
+  550  ls
+  551  atom .
+  552  ls
+  553  atom .
+  554  git add .
+  555  git status
+  556  git commit -m 'index.html todo done'
+  557  git push origin master
+  558  live-server
+  559  ls
+  560  git add .
+  561  git status
+  562  git commit -m 'arcticleView js done with 4 todos.'
+  563  git push origin master
+  564  ls
+  565  git status
+  566  atom .
+  567  liveserver
+  568  live-server
+  569  git status
+  570  git add .
+  571  git commit -m 'finished all todos! handlemainnav and set teasers methods complete'
+  572  git push origin master
+  573  ls
+  574  live-server
+  575  ls
+  576  git add .
+  577  git status
+  578  git commit -m 'added seconday feature to project'
+  579  git push origin master
+  580  live-server
+  581  git branch class-02
+  582  git branch
+  583  git checkout class-02
+  584  git push origin class-02
+  585  live-script
+  586  live-server
+  587  ls
+  588  live-server
+  589  ls
+  590  cd ..
+  591  ls
+  592  cd sea-301-d2
+  593  cd class-02-jquery-and-events
+  594  ls
+  595  cd pair-assignment
+  596  ls
+  597  cd henry-adam
+  598  ls
+  599  atom .
+  600  ls
+  601  cd ..
+  602  cd .
+  603  cd ..
+  604  ls
+  605  cd class-03-responsive-mobile-first
+  606  ls
+  607  git status
+  608  git pull origin master
+  609  git pull upstream master
+  610  atom .
+  611  ls
+  612  cd pair-assignment
+  613  ls
+  614  cd starter-code
+  615  atom .
+  616  ls
+  617  cd ..
+  618  cp starter-code/ henry-thom/
+  619  cp -r  starter-code/ henry-thom/
+  620  ls
+  621  cd henry-thom
+  622  ls
+  623  git checkout -b class03
+  624  ls
+  625  atom .
+  626  live-server
+  627  git add .
+  628  git status
+  629  git commit -m "todos in index.html done
+  630  git commit -m"todos in index.html done
+  631  git commit -m'todos in index.html done'
+  632  git push origin master
+  633  git merge
+  634  git brach
+  635  git branch
+  636  git push origin class03
+  637  git pull orgin class03
+  638  git pull origin class03
+  639  git fetch --all
+  640  ls
+  641  live server
+  642  live-server
+  643  atom .
+  644  git pull origin class03
+  645  git fetch origin master
+  646  git reset --hard FETCH_HEAD
+  647  git clean -df
+  648  ls
+  649  atom .
+  650  ls
+  651  git branch
+  652  git checkout -b class-03
+  653  ls
+  654  atom .
+  655  live-server
+  656  cd..
+  657  cd ..
+  658  ls
+  659  cd sea-301-d2
+  660  ls
+  661  cd class-03-responsive-mobile-first
+  662  ls
+  663  cd pair-assignment
+  664  ls
+  665  cd henry-thom
+  666  atom .
+  667  ls
+  668  Applications
+  669  cd
+  670  ls
+  671  Desktop/ls
+  672  ls
+  673  cd Desktop
+  674  ls
+  675  cd codefellows301
+  676  ls
+  677  cd portfolio
+  678  live-server
+  679  ls
+  680  cd Desktop
+  681  ls
+  682  cd codefellows301
+  683  ls
+  684  cd sea-301-d2
+  685  ls
+  686  cd class-03-responsive-mobile-first
+  687  ls
+  688  cd pair-assignment
+  689  ls
+  690  cd henry-thom
+  691  atom .
+  692  ls
+  693  cd ..
+  694  ls
+  695  cd class-04-templates
+  696  ls
+  697  cd pari
+  698  cd pair-assignment
+  699  ls
+  700  cd ..
+  701  ls
+  702  cd ..
+  703  ls
+  704  cd class-03-responsive-mobile-first
+  705  ls
+  706  cd pair-assignment
+  707  ls
+  708  cd starter-code
+  709  atom .
+  710  git add .
+  711  git status
+  712  git commit -m 'added sticky nav, fixed handleMainNav method
+  713  git commit -m 'added sticky nav, fixed handleMainNav method'
+  714  git status
+  715  git merge
+  716  git push origin class03
+  717  git status
+  718  git add .
+  719  git commit -m 'added sticky nav, fixed handleMainNav method'
+  720  git push origin class03
+  721  git status
+  722  git push origin class-03
+  723  ls
+  724  eslint scripts/projectView.js
+  725  apm install linter linter-eslint
+  726  atom .
+  727  ls
+  728  git branch
+  729  git -b class-04
+  730  git checkout -b class-04
+  731  ls
+  732  atom .
+  733  ls
+  734  cd ..
+  735  ls
+  736  cd ..
+  737  ls
+  738  cd ..
+  739  ls
+  740  cd class-04-templates
+  741  ls
+  742  cd pair-assignment
+  743  ls
+  744  git clone https://github.com/wohlfea/sea-301-d2/tree/master/class-04-templates/pair-assignment/aj-henry
+  745  ls
+  746  cd ..
+  747  ls
+  748  cd class-05-recap-pair-project
+  749  ls
+  750  cd lecture-code
+  751  git pull origin master
+  752  ls
+  753  atom .
+  754  git branch
+  755  git check out master
+  756  git checkout master
+  757  git pull origin master
+  758  astom .
+  759  atom .
+  760  ls
+  761  atom .
+  762  git pull origin master
+  763  git pull upstream
+  764  atom .
+  765  ls
+  766  cd ..
+  767  ls
+  768  cd lecture-code
+  769  ls
+  770  git pull upstream master
+  771  atom .
+  772  live-server
+  773  ls
+  774  live-server
+  775  live server
+  776  live-server
+  777  ls
+  778  atom .
+  779  live-server
+  780  cd
+  781  ls
+  782  cd Desktop
+  783  ls
+  784  cd codefellows301
+  785  ls
+  786  cd
+  787  ls
+  788  cd Desktop
+  789  ls
+  790  cd AnimatedTextIconMenu\ 3
+  791  ls
+  792  atom .
+  793  ls
+  794  cd Desktop
+  795  ls
+  796  cd DMA 263
+  797  ls
+  798  cd DMA\ 264/ls
+  799  cd DMA\ 264/
+  800  ls
+  801  cd proj\ 4\ files
+  802  ls
+  803  cd ..
+  804  ls
+  805  cd ..
+  806  ls
+  807  cd DMA\ 263
+  808  ls
+  809  cd Honghao\ Bi\ Extra\ Credit
+  810  atom .
+  811  ls
+  812  cd Desktop
+  813  ls -la
+  814  cd LineMenuStyles
+  815  ls
+  816  atom .
+  817  live-server
+  818  ls
+  819  live-server
+  820  git push origin class-04
+  821  git add .
+  822  git status
+  823  git commit -m 'more style css change, adding hoverProject method.'
+  824  git push origin class-04
+  825  git add .
+  826  git status
+  827  git commit -m 'images size reduced'
+  828  git push origin class-04
+  829  live-server
+  830  git add .
+  831  git status
+  832  git commit -m'added jquery interactivities.'
+  833  git push origin class-04
+  834  live-server
+  835  ls
+  836  ccd Desktop/ls
+  837  ls
+  838  cd Desktop
+  839  ls
+  840  cd codefellows301
+  841  ls
+  842  cd sea-301-d2
+  843  git pull upstream master
+  844  ls
+  845  cd class-06-ajax-and-json
+  846  ls
+  847  cd pair-assignment
+  848  ls
+  849  cd starter-code
+  850  ls
+  851  atom .
+  852  ls
+  853  cd ..
+  854  ls
+  855  cd .
+  856  cd ..
+  857  ls
+  858  cd lecture-code
+  859  ls
+  860  atom .
+  861  ls
+  862  cd ..
+  863  ls
+  864  cd pair-assignment
+  865  git pull upstream master
+  866  ls
+  867  cd starter-code
+  868  ls
+  869  atom .
+  870  live-server
+  871  ls
+  872  cd ..
+  873  ls
+  874  cd ..
+  875  ls
+  876  cd p
+  877  cd pair-assignment
+  878  mkdir henry-aj
+  879  ls
+  880  cp -r starter-code henry-aj
+  881  ls
+  882  cd henry-aj
+  883  atom .
+  884  live-server
+  885  ls
+  886  cd starter-code
+  887  live-server
+  888  ls
+  889  git add .
+  890  git commit -m 'finished assignment'
+  891  git push origin master
+  892  live-server
+  893  cd
+  894  ls-l
+  895  ls -l
+  896  ls -la
+  897  atom .bash_profile
+  898  myip
+  899  ls -la
+  900  atom .zshrc
+  901  myip
+  902  profile
+  903  ls
+  904  cd Desktop
+  905  ls
+  906  cd codefellows301
+  907  ls
+  908  cd sea-301-d2
+  909  ls
+  910  cd ..
+  911  ls
+  912  cd portfolio
+  913  git branch class-06
+  914  ls
+  915  git branch
+  916  git checkout class-06
+  917  ls
+  918  atom .
+  919  live-server
+  920  git add .
+  921  git commit -m 'ajax call feature updated!'
+  922  git push origin master
+  923  git merge orgin master
+  924  git status
+  925  git push origin master
+  926  git add .
+  927  git status
+  928  git checkout master
+  929  git push origin master
+  930  git checkout class-06
+  931  git commit -m'ajax call feature updated!'
+  932  git add .
+  933  git status
+  934  git commit -m'ajax call feature updated'
+  935  git push origin master
+  936  git status
+  937  git add .
+  938  git status
+  939  git push origin master
+  940  git push origin class-06
+  941  live-server
+  942  ls
+  943  cd Desktop
+  944  ls
+  945  cd codefellows301
+  946  ls
+  947  cd sea-301-d2
+  948  git pull upstream origin/
+  949  git pull upstream origin
+  950  git pull upstream master
+  951  ls
+  952  cd
+  953  ls
+  954  cd Desktop
+  955  ls
+  956  cd moment-app-master
+  957  ls
+  958  atom .
+  959  cd
+  960  ls
+  961  cd Desktop
+  962  ls
+  963  cd codefellows301
+  964  ls
+  965  cd sea-301-d2
+  966  ls
+  967  cd class-07-functional-programming
+  968  ls
+  969  cd lecture
+  970  ls
+  971  cd examples
+  972  ls
+  973  atom .
+  974  live-server
+  975  ls
+  976  cd ..
+  977  ls
+  978  cd ..
+  979  ls
+  980  cd pair-assignment
+  981  ls
+  982  cd starter-code
+  983  ls
+  984  atom .
+  985  live-server
+  986  ls
+  987  live-server
+  988  git status
+  989  git add .
+  990  git status
+  991  ls
+  992  cd ..
+  993  ls
+  994  cp -r starter-code henry-paul
+  995  ls
+  996  cd henry-paul
+  997  ls
+  998  add .
+  999  git add .
+ 1000  git status
+ 1001  git commit -m 'finished all todos class 07 pair assignment'
+ 1002  git push origin master
+ 1003  ls
+ 1004  cd ..
+ 1005  ls
+ 1006  cd portfolio-assignment
+ 1007  ls
+ 1008  atom .
+ 1009  ls
+ 1010  git branch
+ 1011  git checkout class-07
+ 1012  git branch class-07
+ 1013  git checkout class-07
+ 1014  ls
+ 1015  atom .
+ 1016  live-server
+ 1017  atom .
+ 1018  live-server
+ 1019  ls
+ 1020  git add .
+ 1021  git status
+ 1022  git commit -m'about page done, more styling, IIFE'
+ 1023  git push origin master
+ 1024  git status
+ 1025  git push origin class-07
+ 1026  live-server
+ 1027  ls
+ 1028  cd Desktop
+ 1029  ls
+ 1030  cd codefellows301
+ 1031  ls
+ 1032  cd sea-301-d2
+ 1033  ls
+ 1034  cd class-07-functional-programming
+ 1035  ls
+ 1036  cd  pair-assignment
+ 1037  ls
+ 1038  cd henry-paul
+ 1039  ls
+ 1040  live-server
+ 1041  live-server
+ 1042  git pull origin master
+ 1043  ls
+ 1044  atom .
+ 1045  live-server
+ 1046  git status
+ 1047  git pull origin master
+ 1048  live-server
+ 1049  git push origin master
+ 1050  git merge origin master
+ 1051  git merge
+ 1052  git checkout master
+ 1053  git add .
+ 1054  git commit -m'css changes\n'
+ 1055  git push origin class-07
+ 1056  ls
+ 1057  git checkout master
+ 1058  git add .
+ 1059  git status
+ 1060  git merge
+ 1061  git merge class-07
+ 1062  git push origin master
+ 1063  git commit -m'merge class 07'
+ 1064  git add .
+ 1065  git status
+ 1066  git push origin master
+ 1067  git merge origin/master
+ 1068  ls
+ 1069  git branch class-08
+ 1070  git checkout class-08
+ 1071  ls
+ 1072  live-server
+ 1073  ls
+ 1074  cd
+ 1075  ls
+ 1076  cd Desktop
+ 1077  ls
+ 1078  cd HB\ Desktop
+ 1079  ls
+ 1080  cd School
+ 1081  ls
+ 1082  cd Scroll\ Fade\ In\ Example
+ 1083  atom .
+ 1084  live-server
+ 1085  ls
+ 1086  cd Desktop
+ 1087  ls
+ 1088  cd codefellows301
+ 1089  ls
+ 1090  cd sea-301-d2
+ 1091  git pull upstream master
+ 1092  ls
+ 1093  cd class-08-crud-a-resource
+ 1094  ls
+ 1095  git status
+ 1096  git add .
+ 1097  git commit -m 'updated before pull from upstream'
+ 1098  git push origin master
+ 1099  git pull upstream master
+ 1100  ls
+ 1101  git checkout -b henry-michael
+ 1102  ls
+ 1103  cd pair-assignment
+ 1104  ls
+ 1105  cd starter-code
+ 1106  ls
+ 1107  atom .
+ 1108  live-server
+ 1109  ls
+ 1110  cd ..
+ 1111  ls
+ 1112  cd ..
+ 1113  ls
+ 1114  cd lecture-code
+ 1115  ls
+ 1116  cd miniDB
+ 1117  ls
+ 1118  atom .
+ 1119  ls
+ 1120  cd ..
+ 1121  ls
+ 1122  cd pair-assignment
+ 1123  ls
+ 1124  cd starter-code
+ 1125  ls
+ 1126  live-server
+ 1127  li
+ 1128  live-server
+ 1129  git add.
+ 1130  git add .
+ 1131  git status
+ 1132  git commit -m 'finished all todos'
+ 1133  git push origin henry-michael
+ 1134  live-server
+ 1135  ls
+ 1136  git add .
+ 1137  git status
+ 1138  git commit -m 'lightbox created in css'
+ 1139  git push origin class-08
+ 1140  git branch master
+ 1141  git checkout master
+ 1142  git push origin master
+ 1143  git merge
+ 1144  git checkout class-09
+ 1145  git branch class-09
+ 1146  git branch -b class-09
+ 1147  git merge class-09
+ 1148  git checkout class-08
+ 1149  git checkout master
+ 1150  git pull origin master
+ 1151  live-server
+ 1152  ls
+ 1153  cd Desktop
+ 1154  ls
+ 1155  cd codefellows301
+ 1156  ls
+ 1157  cd sea-301-d2
+ 1158  ls
+ 1159  git checkout
+ 1160  git branch
+ 1161  git branch master
+ 1162  git checkout master
+ 1163  ls
+ 1164  git pull upstream master
+ 1165  ls
+ 1166  cd class-10-recap-pair-project
+ 1167  ls
+ 1168  cd starter-code
+ 1169  atom .
+ 1170  live-server
+ 1171  ls
+ 1172  cd
+ 1173  cd Desktop
+ 1174  cd codefellows301
+ 1175  ls
+ 1176  cd portfolio
+ 1177  ls
+ 1178  live-server
+ 1179  ls
+ 1180  npm install -g pushstate-server
+ 1181  cd .
+ 1182  ls
+ 1183  cd ..
+ 1184  ls
+ 1185  cd sea-301-d2
+ 1186  ls
+ 1187  cd class-11-routing-wrrc
+ 1188  ls
+ 1189  git pull origin upstream
+ 1190  git pull upstream master
+ 1191  ls
+ 1192  cd ..
+ 1193  ls
+ 1194  cd class-11-spa-routing
+ 1195  ls
+ 1196  cd pair-assignment
+ 1197  ls
+ 1198  cd ..
+ 1199  ls
+ 1200  cd lecture-code
+ 1201  ls
+ 1202  cd miniPage
+ 1203  pushstate-server .
+ 1204  env
+ 1205  env | grep -i node
+ 1206  iap$ env | grep -i node
+ 1207  sudo npm install -g express
+ 1208  sudo npm install -g express-request-proxy
+ 1209  iap$ env | grep -i node
+ 1210  node server.js
+ 1211  node -v
+ 1212  env
+ 1213  env | grep -i node
+ 1214  cd ..
+ 1215  ls
+ 1216  cd henrybi
+ 1217  ls
+ 1218  ls la
+ 1219  ls.la
+ 1220  ls -la
+ 1221  atom .bash_profile
+ 1222  ls
+ 1223  node server.js
+ 1224  ls
+ 1225  ls -la
+ 1226  cd ..
+ 1227  ls
+ 1228  ls -la
+ 1229  cd henrybi
+ 1230  ls -la
+ 1231  myip
+ 1232  cd node_modules
+ 1233  ls
+ 1234  ls -la
+ 1235  node server.js
+ 1236  ls
+ 1237  cd ..
+ 1238  ls
+ 1239  cd ..
+ 1240  ls
+ 1241  cd pair-assignment
+ 1242  ls
+ 1243  cd starter-code
+ 1244  node server.js
+ 1245  ls -l
+ 1246  ls -la
+ 1247  atom .zshrc
+ 1248  node server.js
+ 1249  ls
+ 1250  atom .
+ 1251  npm install
+ 1252  node server.js
+ 1253  ls
+ 1254  cd node_modules
+ 1255  ls
+ 1256  ls -la
+ 1257  ls
+ 1258  cd ..
+ 1259  ls
+ 1260  ls -la
+ 1261  ls
+ 1262  cd Desktop
+ 1263  ls
+ 1264  cd codefellows301
+ 1265  ls
+ 1266  cd sea-301-d2
+ 1267  ls
+ 1268  cd class-11-spa-routing
+ 1269  ls
+ 1270  cd lecture-code
+ 1271  ls
+ 1272  cd miniPage
+ 1273  la
+ 1274  atom .
+ 1275  env
+ 1276  ls
+ 1277  cd Desktop
+ 1278  ls
+ 1279  cd codefellows301
+ 1280  ls
+ 1281  mkdir patrick
+ 1282  ls
+ 1283  cd patrick
+ 1284  git clone https://github.com/ptrompeter/sea-301-d2.git
+ 1285  ls
+ 1286  cd
+ 1287  ls
+ 1288  cd D
+ 1289  cd Desktop
+ 1290  ls
+ 1291  cd codefellows301
+ 1292  ls
+ 1293  cd portfolio
+ 1294  ls
+ 1295  cd ..
+ 1296  rmdir patrick
+ 1297  rm-dir patrick
+ 1298  git-rm patrick
+ 1299  rm patrick
+ 1300  d
+ 1301  ls
+ 1302  cd ..
+ 1303  ls
+ 1304  cd .. cd ..
+ 1305  cd ..
+ 1306  ls
+ 1307  cd patrick
+ 1308  ls
+ 1309  cd sea-301-d2
+ 1310  ls
+ 1311  git pull origin master
+ 1312  ls
+ 1313  cd class-11-spa-routing
+ 1314  ls
+ 1315  cd pair-assignment
+ 1316  atom
+ 1317  atom .
+ 1318  ls
+ 1319  cd portfolio
+ 1320  ls
+ 1321  atom .
+ 1322  ls
+ 1323  cd starter-code
+ 1324  ls
+ 1325  atom .
+ 1326  git checkout class-11
+ 1327  git branch
+ 1328  git checkout
+ 1329  ls
+ 1330  git checkout -b class-10
+ 1331  atom .
+ 1332  git pull origin master
+ 1333  atom .
+ 1334  cd ..
+ 1335  cd sea-301-d2
+ 1336  ls
+ 1337  cd henry-patrick
+ 1338  ls
+ 1339  cd starter-code
+ 1340  ls
+ 1341  atom .
+ 1342  npm install
+ 1343  node server.js
+ 1344  git add .
+ 1345  git commit -m 'added routing!!!'
+ 1346  git push origin class-10
+ 1347  git merge
+ 1348  git checkout master
+ 1349  git add .
+ 1350  git status
+ 1351  gir branch
+ 1352  git branch
+ 1353  git checkout -b class-11
+ 1354  ls
+ 1355  node server.js
+ 1356  cd
+ 1357  ls
+ 1358  cd Desktop
+ 1359  ls
+ 1360  cd portfolio
+ 1361  ls
+ 1362  node server.js
+ 1363  ls
+ 1364  cd ..
+ 1365  ls
+ 1366  cd sea-301-d2/class-
+ 1367  ls
+ 1368  cd sea-301-d2
+ 1369  ls
+ 1370  cd class-12-REST-and-APIs
+ 1371  ls
+ 1372  cd pair-assignment
+ 1373  ls
+ 1374  npm install
+ 1375  node server.js
+ 1376  ls
+ 1377  cd starter-code
+ 1378  node server.js
+ 1379  ls
+ 1380  cd ..
+ 1381  la
+ 1382  ls
+ 1383  cd ls
+ 1384  cd
+ 1385  l
+ 1386  ls
+ 1387  cd Desktop
+ 1388  ls
+ 1389  cd codefellows301
+ 1390  ls
+ 1391  cd patrick
+ 1392  ls
+ 1393  cd sea-301-d2
+ 1394  ls
+ 1395  cd henry-patrick
+ 1396  ls
+ 1397  cd starter-code
+ 1398  node server.js
+ 1399  npm install
+ 1400  node server.js
+ 1401  ls
+ 1402  cd ..
+ 1403  ls
+ 1404  cd ..
+ 1405  ls
+ 1406  cd ..
+ 1407  ls
+ 1408  cd sea-301-d2
+ 1409  ls
+ 1410  git pull upstream master
+ 1411  ls
+ 1412  cd class-12-REST-and-APIs
+ 1413  ls
+ 1414  cd pair-assignment
+ 1415  ls
+ 1416  cd starter-code
+ 1417  npm install
+ 1418  node server.js
+ 1419  atom .
+ 1420  node server.js
+ 1421  ls
+ 1422  cd ..
+ 1423  ls
+ 1424  cp -r starter-code henry-razi
+ 1425  ls
+ 1426  cd henry-razi
+ 1427  ls
+ 1428  npm install
+ 1429  ls
+ 1430  node server.js
+ 1431  atom .
+ 1432  node server.js
+ 1433  ls
+ 1434  git add .
+ 1435  git status
+ 1436  git commit -m 'ajax call append to html'
+ 1437  git push origin master
+ 1438  node server.js
+ 1439  ls
+ 1440  npm install
+ 1441  node server.js
+ 1442  git pull origin master
+ 1443  npm install
+ 1444  atom .
+ 1445  node server.js
+ 1446  git add .
+ 1447  git status
+ 1448  git commit -m 'added repo in about me page!!'
+ 1449  git push origin class-11
+ 1450  git checkout master
+ 1451  git add.
+ 1452  git status
+ 1453  git add .
+ 1454  git status
+ 1455  git commit -m 'mainNav transition'
+ 1456  git push origin class-11
+ 1457  git checkout master
+ 1458  git pull origin master
+ 1459  node server.js
+ 1460  ls
+ 1461  cd Desktop
+ 1462  ls
+ 1463  cd codefellows301
+ 1464  ls
+ 1465  cd sea-301-d2
+ 1466  ls
+ 1467  cd class-13-production-deployment
+ 1468  ls
+ 1469  git pull upstream master
+ 1470  cd
+ 1471  ls
+ 1472  cd Desktop
+ 1473  ls
+ 1474  cd codefellows301
+ 1475  ls
+ 1476  cd sea-301-d2
+ 1477  cp -r sea-301-d2/class-13-production-deployment/pair-assignment/starter-code ~/heroku_deployment_demo
+ 1478  cd ..
+ 1479  cp -r sea-301-d2/class-13-production-deployment/pair-assignment/starter-code ~/heroku_deployment_demo
+ 1480  cp -r codefellows301/sea-301-d2/class-13-production-deployment/pair-assignment/starter-code ~/heroku_deployment_demo
+ 1481  cd codefellows301
+ 1482  cd sea-301-d2
+ 1483  git pull origin upstream
+ 1484  git pull upstream master
+ 1485  ls
+ 1486  cd
+ 1487  cd Desktop
+ 1488  cp -r codefellows301/sea-301-d2/class-13-production-deployment/pair-assignment/starter-code ~/heroku_deployment_demo
+ 1489  cd Henry\ Bi\ Design\ Old\ Website
+ 1490  cd
+ 1491  cd Desktop
+ 1492  ls
+ 1493  cd heroku
+ 1494  ls
+ 1495  npm install
+ 1496  atom .
+ 1497  node server.js
+ 1498  env | grep -i node
+ 1499  env | grep -i shell
+ 1500  cd
+ 1501  ls
+ 1502  rm-dir heroku_deployment_demo
+ 1503  ls
+ 1504  ls -la
+ 1505  echo .zshrc
+ 1506  ls
+ 1507  ls la
+ 1508  ls- la
+ 1509  ls -la
+ 1510  atom .zshrc
+ 1511  env
+ 1512  atom .zshrc
+ 1513  env
+ 1514  ls -la
+ 1515  atom .zshrc
+ 1516  env
+ 1517  profile
+ 1518  myip
+ 1519  ls
+ 1520  cd Desktop/heroku
+ 1521  ls
+ 1522  node server.js
+ 1523  git init
+ 1524  git add .
+ 1525  git commit -m 'initial version'
+ 1526  git heroku login
+ 1527  heroku login
+ 1528  heroku create heroku-demo-henry
+ 1529  git remote -v
+ 1530  git push heroku mastter
+ 1531  git push heroku master
+ 1532  heroku open
+ 1533  env
+ 1534  git add .
+ 1535  git status
+ 1536  git commit -m 'to .get() method instead of .ajax()'
+ 1537  git push heroku master
+ 1538  ls
+ 1539  cd
+ 1540  ls
+ 1541  rm -rf heroku_deployment_demo
+ 1542  ls
+ 1543  cd Desktop
+ 1544  cd codefellows301/sea-301-d2
+ 1545  ls
+ 1546  cd ..
+ 1547  ls
+ 1548  cd ..
+ 1549  ls
+ 1550  cd portfolio-301
+ 1551  ls
+ 1552  atom .
+ 1553  npm install
+ 1554  git init
+ 1555  git add .
+ 1556  git commit -m 'initial portfolio 301'
+ 1557  heroku login
+ 1558  git remote -v
+ 1559  git push heroku master
+ 1560  heroku create portfolio-301
+ 1561  git remote -v
+ 1562  git push heroku master
+ 1563  heroku open
+ 1564  node server.js
+ 1565  profile
+ 1566  ls
+ 1567  profile
+ 1568  cd
+ 1569  ls
+ 1570  cd Desktop
+ 1571  ls
+ 1572  cd portfolio-301
+ 1573  ls
+ 1574  node server.js
+ 1575  profile
+ 1576  git status
+ 1577  git add .
+ 1578  git stats
+ 1579  git status
+ 1580  git push
+ 1581  cd
+ 1582  ls
+ 1583  cd Desktop/codefellows301/sea-301-d2
+ 1584  cd ..
+ 1585  ls
+ 1586  cd codefellows301
+ 1587  cd portfolio
+ 1588  ls
+ 1589  git pull origin master
+ 1590  git add .
+ 1591  git commit -m 'css change\n'
+ 1592  git push
+ 1593  git pull origin master
+ 1594  atom .
+ 1595  git -v
+ 1596  git remote -v
+ 1597  git pull origin master
+ 1598  git push heroku master
+ 1599  heroku login
+ 1600  git remote -v
+ 1601  git add .
+ 1602  git status
+ 1603  git commit 'gituation #1'
+ 1604  git commit -m 'gituation #1'
+ 1605  git push
+ 1606  git remote -v
+ 1607  git push heroku master
+ 1608  heroku create portfolio_301
+ 1609  heroku create portfolio301
+ 1610  git add .
+ 1611  git init
+ 1612  git add .
+ 1613  git commit -m 'initial commit'
+ 1614  git remote -v
+ 1615  git push heroku master
+ 1616  profile
+ 1617  heroku open
+ 1618  ls
+ 1619  open heroku
+ 1620  ls
+ 1621  open heroku
+ 1622  cd
+ 1623  cd Desktop
+ 1624  ls
+ 1625  cd heroku
+ 1626  open heroku
+ 1627  heroku open
+ 1628  git add .
+ 1629  git status
+ 1630  cd
+ 1631  cd Desktop/codefellows301/portfolio
+ 1632  ls
+ 1633  git add .
+ 1634  git status
+ 1635  git commit -m 'heruko test 1'
+ 1636  git push origin master
+ 1637  git add .
+ 1638  git commit -m 'heruko test 2 sucess'
+ 1639  git push origin master
+ 1640  cd Desktop/codefellows301/sea-301-d2/class-14-managing-state
+ 1641  ls
+ 1642  git pull origin master
+ 1643  git pull upstream master
+ 1644  ls
+ 1645  cd lecture-code
+ 1646  atom .
+ 1647  live-server
+ 1648  ls
+ 1649  cd ..
+ 1650  ls
+ 1651  cd pair-assignment
+ 1652  git pull upstream master
+ 1653  ls
+ 1654  cd starter-code
+ 1655  atom .
+ 1656  live-server
+ 1657  git add .
+ 1658  git status
+ 1659  git commit -m 'code clean up #1'
+ 1660  git push origin master
+ 1661  live-server
+ 1662  node server.js
+ 1663  git add .
+ 1664  git status
+ 1665  git commit -m 'refractoring, new color scheme, and bgcolorchange method added'
+ 1666  git push origin master
+ 1667  node server.js
+ 1668  git add .
+ 1669  git commit -m 'last color transition change'
+ 1670  git push origin master
+ 1671  node server.js
+ 1672  cd
+ 1673  cd
+ 1674  ls
+ 1675  cd Desktop
+ 1676  ls
+ 1677  cd yelp\ api\ test\ code
+ 1678  ls
+ 1679  cd
+ 1680  atom .
+ 1681  cat >index.html
+ 1682  cd Desktop/yelp\ api\ test\ code
+ 1683  ls
+ 1684  touch index.html
+ 1685  ls
+ 1686  touch test.js
+ 1687  atom .
+ 1688  live-server
+ 1689  ls
+ 1690  cd Dest
+ 1691  cd Desktop
+ 1692  ls
+ 1693  git clone 'https://github.com/rdavid8/Voluntold.git'
+ 1694  ls
+ 1695  cd Voluntold
+ 1696  git pull
+ 1697  ls
+ 1698  git status
+ 1699  git add .
+ 1700  git status
+ 1701  git commit -m 'yelp api test code initial upload- not working'
+ 1702  git push origin master
+ 1703  live-server
+ 1704  ls
+ 1705  live-server
+ 1706  cd ..
+ 1707  ls
+ 1708  cd yelp\ api\ test\ code
+ 1709  live-server
+ 1710  atom .
+ 1711  live-server
+ 1712  git add .
+ 1713  git status
+ 1714  git commit -m 'google map api implementation. some color styling!!'
+ 1715  git push origin master
+ 1716  live-server
+ 1717  git add .
+ 1718  git status
+ 1719  git commit -m "map style #2"
+ 1720  git push origin master
+ 1721  live-server
+ 1722  git add .
+ 1723  git commit -m 'font choice #1 added'
+ 1724  git push origin master
+ 1725  git pull origin development
+ 1726  npm install
+ 1727  node server.js
+ 1728  profile
+ 1729  node server.js
+ 1730  profile
+ 1731  ls
+ 1732  cd Desktop
+ 1733  ls
+ 1734  cd Voluntold
+ 1735  ls
+ 1736  cd yelp\ api\ test\ code
+ 1737  ls
+ 1738  node server.js
+ 1739  git pull origin origin/development
+ 1740  git pull origin/development
+ 1741  git pull origin master
+ 1742  ls
+ 1743  git pull origin origin/development
+ 1744  git checkout development
+ 1745  git pull origin development
+ 1746  git checkout -b yelpinputajax call
+ 1747  git checkout -b yelpinputajaxcall
+ 1748  atom .
+ 1749  ls
+ 1750  cd ..
+ 1751  ls
+ 1752  atom .
+ 1753  git checkout development
+ 1754  git pull origin development
+ 1755  git branch -d yelpinputajaxcall
+ 1756  git checkout -b inputajaxcall
+ 1757  atom .
+ 1758  node server.js
+ 1759  npm install
+ 1760  node server.js
+ 1761  git status
+ 1762  ls -la
+ 1763  rm -r yelp\ api\ test\ code
+ 1764  git status
+ 1765  git add .
+ 1766  git commit -m 'initial index page setup'
+ 1767  git push origin inputajaxcall
+ 1768  git branch -d inputajaxcall
+ 1769  git checkout development
+ 1770  git branch -d inputajaxcall
+ 1771  git branch -D inputajaxcall
+ 1772  git pull origin development
+ 1773  git checkout -b yelpjscall
+ 1774  npm install
+ 1775  atom .
+ 1776  node server.js
+ 1777  git add .
+ 1778  git commit -m 'storing form value works'
+ 1779  git push origin yelpjscall
+ 1780  ls
+ 1781  cd Dek
+ 1782  cd Desktop
+ 1783  ls
+ 1784  cd codefellows301
+ 1785  ls
+ 1786  cd sea-301-d2
+ 1787  ls
+ 1788  cd class-15-putting-it-together
+ 1789  ls
+ 1790  cd ..
+ 1791  ls
+ 1792  cd class-12-REST-and-APIs
+ 1793  ls
+ 1794  cd pair-assignment
+ 1795  ls
+ 1796  cd starter-code
+ 1797  atom .
+ 1798  git branch
+ 1799  git checkout development
+ 1800  git pull origin development
+ 1801  atom .
+ 1802  git pull origin development
+ 1803  git reset --hard
+ 1804  git pull origin development
+ 1805  git branch -b userInput
+ 1806  git checkout -b userInput
+ 1807  atom .
+ 1808  node server.js
+ 1809  git add .
+ 1810  git status
+ 1811  git push origin userInput
+ 1812  git commit -m 'google.js, questions.js created'
+ 1813  git push origin userInput
+ 1814  node server.js
+ 1815  git add .
+ 1816  git status
+ 1817  git commit 'questions routes created.'
+ 1818  git commit -m 'questions routes created.'
+ 1819  git push origin userInput
+ 1820  git checkout development
+ 1821  git pull origin development
+ 1822  node server.js
+ 1823  git pull origin development
+ 1824  node server.js
+ 1825  git branch userInput
+ 1826  git checkout userInput
+ 1827  node server.js
+ 1828  atom .
+ 1829  node server.js
+ 1830  git reset --hard
+ 1831  git pull origin development
+ 1832  node server.js
+ 1833  git pull origin development
+ 1834  atom .
+ 1835  node server.js
+ 1836  git checkout development
+ 1837  git reset --hard
+ 1838  git pull origin development
+ 1839  atom .
+ 1840  node server.js
+ 1841  git reset --hard
+ 1842  git pull origin development
+ 1843  git checkout -b landingPage
+ 1844  atom .
+ 1845  node server.js
+ 1846  gem install sass
+ 1847  npm install less
+ 1848  ls
+ 1849  cd Desktop
+ 1850  ls
+ 1851  cd TextInputEffects
+ 1852  ls
+ 1853  live-server
+ 1854  atom .
+ 1855  live-server
+ 1856  ls
+ 1857  cd Desktop
+ 1858  ls
+ 1859  cd LineMenuStyles
+ 1860  ls
+ 1861  live-server
+ 1862  cd ..
+ 1863  cd SelectInspiration
+ 1864  ls
+ 1865  live-server
+ 1866  atom .
+ 1867  live-server
+ 1868  git add .
+ 1869  git status
+ 1870  git commit -m'initializing styling'
+ 1871  node server.js
+ 1872  live-server
+ 1873  node
+ 1874  node server.js
+ 1875  ls
+ 1876  cd ..
+ 1877  cd codefellows301/portfolio
+ 1878  ls
+ 1879  atom .
+ 1880  cd ..
+ 1881  ls
+ 1882  cd sea-301-d2
+ 1883  ls
+ 1884  cd class-05-
+ 1885  cd class-05-new-article-creation
+ 1886  ls
+ 1887  cd lecture
+ 1888  ls
+ 1889  cd starter-code
+ 1890  ls
+ 1891  atom .
+ 1892  cd ..
+ 1893  ls
+ 1894  cd ..
+ 1895  ls
+ 1896  cd ..
+ 1897  ls
+ 1898  cd class-10-recap-pair-project
+ 1899  ls
+ 1900  cd starter-code
+ 1901  ls
+ 1902  atom .
+ 1903  git add .
+ 1904  git status
+ 1905  git commit -m "initializing second day"
+ 1906  git push origin landingPage
+ 1907  git checkout development
+ 1908  git pull origin development
+ 1909  git checkout -b UI
+ 1910  atom .
+ 1911  node server.js
+ 1912  git add .
+ 1913  git commit -m 'css animate added'
+ 1914  git push origin UI
+ 1915  git checkout development
+ 1916  git pull origin development
+ 1917  git checkout UI
+ 1918  node server.js
+ 1919  git pull origin UI
+ 1920  git checkout development
+ 1921  git pull origin development
+ 1922  node server.js
+ 1923  git checkout UI
+ 1924  atom .
+ 1925  node server.js
+ 1926  git add .
+ 1927  git commit -m "UI for landing page and questions"
+ 1928  git pull origin development
+ 1929  git status
+ 1930  node server.js
+ 1931  git add .
+ 1932  git commit -m 'UI landing, question, result page'
+ 1933  git push origin UI
+ 1934  git checkout development
+ 1935  git pull origin development
+ 1936  node server.js
+ 1937  git pull origin development
+ 1938  git branch
+ 1939  git checkout -UI2
+ 1940  git checkout -b UI2
+ 1941  git pull origin development
+ 1942  atom .
+ 1943  node server.js
+ 1944  git checkout development
+ 1945  lis
+ 1946  git pull origin development
+ 1947  ls
+ 1948  git pull origin development
+ 1949  git checkout -b UI3
+ 1950  atom .
+ 1951  node server.js
+ 1952  git add .
+ 1953  git status
+ 1954  git commit -m "UI add"
+ 1955  git push origin UI3
+ 1956  git checkout development
+ 1957  git pull origin development
+ 1958  git checkout -b UI4
+ 1959  node server.js
+ 1960  git add .
+ 1961  git commit 'added style'
+ 1962  git commit -m 'added style'
+ 1963  node server.js
+ 1964  git add .
+ 1965  git commit -m 'for day two presentation'
+ 1966  git push origin UI4
+ 1967  git add .
+ 1968  git commit -m 'for day two presentation'
+ 1969  git status
+ 1970  git checkout development
+ 1971  git pull origin development
+ 1972  node server.js
+ 1973  ls
+ 1974  git checkout -b UI5
+ 1975  node server.js
+ 1976  git add .
+ 1977  git commit -m 'logo added'
+ 1978  git push Origin UI5
+ 1979  git push origin UI5
+ 1980  git checkout development
+ 1981  git pull origin development
+ 1982  node server.js
+ 1983  ls
+ 1984  git checkout -b UI7
+ 1985  node server.js
+ 1986  git add .
+ 1987  git status
+ 1988  git commit -m 'more styling adjustment'
+ 1989  git push origin UI7
+ 1990  node server.js
+ 1991  git branch development
+ 1992  git checkout development
+ 1993  git pull origin development
+ 1994  node
+ 1995  node server.js
+ 1996  git pull origin development
+ 1997  node server.js
+ 1998  git pull origin development
+ 1999  node server.js
+ 2000  git checkout -b errorPage
+ 2001  node server.js
+ 2002  git add .
+ 2003  git commit -m 'page added'
+ 2004  node server.js
+ 2005  git add .
+ 2006  git commit -m 'error page UI done'
+ 2007  git push origin errorPage
+ 2008  git checkout development
+ 2009  git pull origin development
+ 2010  node server.js
+ 2011  git checkout -b errorPageFix
+ 2012  node server.js
+ 2013  git add .
+ 2014  git commit -m ' fixed'
+ 2015  git push origin errorPageFix
+ 2016  git checkout development
+ 2017  git pull origin development
+ 2018  node server.js
+ 2019  pull origin deve
+ 2020  git pull origin development
+ 2021  node server.js
+ 2022  git checkout -b 'css clean up'
+ 2023  git checkout -b cssCleanUp
+ 2024  node server.js
+ 2025  git add .
+ 2026  git status
+ 2027  git commit -m 'style cleanup'
+ 2028  node server.js
+ 2029  git push origin cssCleanUp
+ 2030  ls
+ 2031  git checkout development
+ 2032  git pull origin development
+ 2033  git checkout -b AboutPage
+ 2034  node server.js
+ 2035  cd Desktop/codefellows301/portfolio
+ 2036  ls
+ 2037  atom .
+ 2038  live-server
+ 2039  atom .
+ 2040  cd Desktop
+ 2041  ls
+ 2042  cd Henry\ Bi\ Design\ Old\ Website
+ 2043  cd ..
+ 2044  ls
+ 2045  git add .
+ 2046  git status
+ 2047  git commit -m 'about page implemented'
+ 2048  git push origin AboutPage
+ 2049  git checkout development
+ 2050  git pull origin development
+ 2051  node server.js
+ 2052  git pull origin development
+ 2053  atom .
+ 2054  checkout -b henry
+ 2055  git checkout -b henry
+ 2056  git add .
+ 2057  git status
+ 2058  git commit -m 'henry linting'
+ 2059  git push origin henry
+ 2060  git checkout development
+ 2061  git pull origin development
+ 2062  git checkout -b aboutCleanUp
+ 2063  node server.js
+ 2064  git add .
+ 2065  git status
+ 2066  git commit -m 'about done'
+ 2067  git push origin aboutCleanUp
+ 2068  git checkout development
+ 2069  git pull origin development
+ 2070  git checkout -b henry refractoring
+ 2071  git checkout -b henryRefractoring
+ 2072  node server.js
+ 2073  git add .
+ 2074  git status
+ 2075  git commit -m 'questionsController functional refractored'
+ 2076  node server.js
+ 2077  git push origin henryRefractoring
+ 2078  git checkout development
+ 2079  git pull origin development
+ 2080  node server.js
+ 2081  git pull origin development
+ 2082  node server.js
+ 2083  git pull origin development
+ 2084  git hard reset
+ 2085  git reset
+ 2086  git reset hard
+ 2087  git reset -hard
+ 2088  git reset --hard
+ 2089  git pull origin development
+ 2090  noder server.js
+ 2091  node server.js
+ 2092  git add .
+ 2093  git commit -m 'css style'
+ 2094  git push origin development
+ 2095  node server.js
+ 2096  cd Desktop
+ 2097  ls
+ 2098  cd Voluntold
+ 2099  ls
+ 2100  atom .
+ 2101  cd
+ 2102  cd Desktop
+ 2103  ls
+ 2104  git clone https://github.com/gSchool/prework.git
+ 2105  cd prework
+ 2106  ls
+ 2107  cd _01_tools
+ 2108  ls
+ 2109  sublime README.md
+ 2110  sublime
+ 2111  get https://github.com/wiggin15/SublimeNyan/raw/master/nyan.py -O ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/nyan.py
+ 2112  wget https://github.com/wiggin15/SublimeNyan/raw/master/nyan.py -O ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/nyan.py
+ 2113  cd
+ 2114  pwd
+ 2115  ls
+ 2116  cd Desktop
+ 2117  ls
+ 2118  mkdir galvanize
+ 2119  cd galvanize
+ 2120  mkdir prework
+ 2121  ls
+ 2122  cd prew
+ 2123  cd prework
+ 2124  echo unix-commands.txt
+ 2125  sublime unix-commands.txt
+ 2126  ls
+ 2127  touch unix-commands.txt
+ 2128  ls
+ 2129  sublime unix-commands.txt
+ 2130  sudo ln -s
+ 2131  ln -s
+ 2132  profile
+ 2133  cd
+ 2134  profile
+ 2135  ls
+ 2136  profile
+ 2137  atom
+ 2138  sbl
+ 2139  cd Desktop/galvanize/prework
+ 2140  ls
+ 2141  sbl unix-commands.txt
+ 2142  cd ..
+ 2143  ls
+ 2144  cd
+ 2145  cd Downloads
+ 2146  ls
+ 2147  rm 20160118_143559.jpg
+ 2148  rm Sublime\ Text\ Build\ 3083.dmg
+ 2149  rm ZoomInstaller.
+ 2150  rm ZoomInstaller.dmg
+ 2151  rm ZoomInstaller.pkg
+ 2152  ls
+ 2153  mv Nyan.ttf ~/Library/Fonts/
+ 2154  ls
+ 2155  apm install predawn-ui
+ 2156  apm install predawnn-syntax
+ 2157  apm install predawn-syntax
+ 2158  ls
+ 2159  cd
+ 2160  cd Desktop
+ 2161  ls
+ 2162  cd prework
+ 2163  ls
+ 2164  cd _01_tools
+ 2165  ls
+ 2166  sbl README.md
+ 2167  cd ..
+ 2168  ls
+ 2169  cd ..
+ 2170  cd prework
+ 2171  cd ..
+ 2172  cd galvanize/prework
+ 2173  mkdir git-practice
+ 2174  cd git-practice
+ 2175  git init
+ 2176  touch randomfile.html
+ 2177  ls
+ 2178  git add.
+ 2179  git add .
+ 2180  git commit -m 'I am adding files to git!'
+ 2181  git log
+ 2182  git log > log.txt
+ 2183  git push origin master
+ 2184  git status
+ 2185  git add .
+ 2186  git status
+ 2187  git push
+ 2188  git push origin master
+ 2189  git push git-practice
+ 2190  git push origin master
+ 2191  git confit
+ 2192  git remote add origin https://github.com/honghaobi/git-practice.git
+ 2193  git add .
+ 2194  git status
+ 2195  git push origin master
+ 2196  git fetch
+ 2197  git push origin master
+ 2198  git add .
+ 2199  git status
+ 2200  git commit -m 'I am adding tfiles to git!'
+ 2201  git push origin master
+ 2202  git pull
+ 2203  git pull remote
+ 2204  git pull remote origin
+ 2205  git pull
+ 2206  git pull git-practice
+ 2207  git pull
+ 2208  git push origin master
+ 2209  git remote -v
+ 2210  git pull
+ 2211  git remote -v
+ 2212  git remote add origin url
+ 2213  git remote -v
+ 2214  git push origin
+ 2215  git push --set-upstream origin master
+ 2216  cd ..
+ 2217  ls
+ 2218  git init
+ 2219  git remote -v
+ 2220  git add .
+ 2221  git commit -m 'added files'
+ 2222  git push origin master
+ 2223  rm -rf .git
+ 2224  cd git-practice
+ 2225  ls
+ 2226  git init
+ 2227  git add .
+ 2228  git status
+ 2229  git push
+ 2230  git commit -m 'I am adding files to git!'
+ 2231  ls
+ 2232  git add .
+ 2233  git status
+ 2234  git push origin master
+ 2235  git push --help
+ 2236  git config --global push.default matching
+ 2237  git push origin master
+ 2238  git fetch origin
+ 2239  git merge origin git-practice
+ 2240  git pull origin git-practice
+ 2241  git remote show
+ 2242  git remote show origin
+ 2243  git pull origin master
+ 2244  git push origin master
+ 2245  git pull origin master
+ 2246  git commit -m 'add files'
+ 2247  git push origin master
+ 2248  cd ..
+ 2249  ls
+ 2250  cd ..
+ 2251  cd codefellows301
+ 2252  cd portfolio
+ 2253  ls
+ 2254  atom README.md
+ 2255  git add .
+ 2256  git status
+ 2257  git commit -m 'readme file updated.'
+ 2258  git push origin master
+ 2259  ls
+ 2260  cd ..
+ 2261  cd YMSW Motion Messages
+ 2262  ls
+ 2263  cd YMSW\ Motion\ Messages
+ 2264  ls
+ 2265  cd YMSW\ Motion\ Message
+ 2266  ls
+ 2267  atom .
+ 2268  sbl .
+ 2269  live-server
+ 2270  ls
+ 2271  cd ..
+ 2272  cd YMSW-Motion-Message
+ 2273  git init
+ 2274  git config --global push.default matching
+ 2275  git remote add origin git@github.com:honghaobi/YMSW-Motion-Message.git
+ 2276  git add .
+ 2277  git status
+ 2278  git commit -m 'project upload'
+ 2279  git push origin master
+ 2280  git remote add origin https://github.com/honghaobi/YMSW-Motion-Message.git
+ 2281  git remove remote origin
+ 2282  git remote rm
+ 2283  git remote rm git@github.com:honghaobi/YMSW-Motion-Message.git
+ 2284  git remote rm destination
+ 2285  git remote set-url origin https://github.com/honghaobi/YMSW-Motion-Message.git
+ 2286  git status
+ 2287  git push origin master
+ 2288  git remote show origin
+ 2289  git pull origin master
+ 2290  git push origin master
+ 2291  cd Desktop
+ 2292  ls
+ 2293  cd Puget\ Fence\ LLC
+ 2294  ls
+ 2295  git add .
+ 2296  git commit -m 'reduced images'
+ 2297  git push origin master
+ 2298  cd ..
+ 2299  cd puget-fence-llc
+ 2300  git init
+ 2301  git remote add origin https://github.com/honghaobi/puget-fence-llc
+ 2302  git pull origin master
+ 2303  git add .
+ 2304  git commit -m 'project upload'
+ 2305  git push origin master
+ 2306  cd ..
+ 2307  cd treehouse
+ 2308  git init
+ 2309  git remote add origin https://github.com/honghaobi/treehouse
+ 2310  git pull origin master
+ 2311  git add .
+ 2312  git commit -m 'treehouse projects upload'
+ 2313  git push origin master
+ 2314  profile
+ 2315  cd
+ 2316  profile
+ 2317  ls
+ 2318  cd Desk
+ 2319  cd Desktop
+ 2320  ls
+ 2321  mkdir b
+ 2322  cd b
+ 2323  git clone https://github.com/Brandon-Parker/my-business-card
+ 2324  ls
+ 2325  cd my-business-card
+ 2326  ls
+ 2327  git checkout -b css selecting button
+ 2328  ls
+ 2329  sbl .
+ 2330  live-server
+ 2331  cd Desktop/codefellows301/sea-301-d2-portfolio
+ 2332  sublime .
+ 2333  sbl .
+ 2334  git add .
+ 2335  git commit -m 'css element fixed'
+ 2336  git push origin master
+ 2337  cd
+ 2338  cd Desktop
+ 2339  ls
+ 2340  rmdir -rf b
+ 2341  rm -rf b
+ 2342  ls
+ 2343  ls
+ 2344  cd galvanize
+ 2345  ls
+ 2346  cd prework
+ 2347  ls
+ 2348  cd git-practice
+ 2349  ls
+ 2350  cd .. cd ..
+ 2351  cd ..
+ 2352  ls
+ 2353  path
+ 2354  cd ..
+ 2355  ls
+ 2356  cd prework
+ 2357  ls
+ 2358  cd _02_html
+ 2359  ls
+ 2360  subl .
+ 2361  sbl .
+ 2362  git add .
+ 2363  gits status
+ 2364  git status
+ 2365  git commit -m 'initial push'
+ 2366  git push origin master
+ 2367  git push origin
+ 2368  git remote -v
+ 2369  ls
+ 2370  cd ..
+ 2371  git clone https://github.com/honghaobi/prework
+ 2372  rm -rf prework
+ 2373  ls
+ 2374  git clone https://github.com/honghaobi/prework
+ 2375  cd pr
+ 2376  cd prework
+ 2377  ls
+ 2378  cd galv
+ 2379  git remote add upstream https://github.com/gSchool/prework.git
+ 2380  git remote -v
+ 2381  ls
+ 2382  cd _02_html
+ 2383  ls
+ 2384  cd your-solution
+ 2385  ls
+ 2386  mkdir bi-henry
+ 2387  ls
+ 2388  cd bi-henry
+ 2389  echo index.html
+ 2390  ls
+ 2391  touch index.html
+ 2392  ls
+ 2393  git add .
+ 2394  git status
+ 2395  git commit -m 'initail push'
+ 2396  git push origin master
+ 2397  ls
+ 2398  cd ..
+ 2399  sbl .
+ 2400  live-server
+ 2401  git add .
+ 2402  git commit -m 'Include solution for chapter 1'
+ 2403  git push origin master
+ 2404  cd Desktop
+ 2405  ls
+ 2406  cd puget-fence-llc
+ 2407  ls
+ 2408  sbl .
+ 2409  live-server
+ 2410  cd ..
+ 2411  cd galvanize
+ 2412  ls
+ 2413  cd prework
+ 2414  ls
+ 2415  atom Galvanized\ Take\ Home\ Assignment\ Prework.js
+ 2416  ls
+ 2417  cd ..
+ 2418  ls
+ 2419  cd ..
+ 2420  ls
+ 2421  cd prework
+ 2422  ls
+ 2423  cd _03_css
+ 2424  ls
+ 2425  sbl .
+ 2426  cd ..
+ 2427  ls
+ 2428  cp _02_html/your-solution/bi-henry _03_css/your-solution
+ 2429  cp _02_html/your-solution/bi-henry/ _03_css/your-solution
+ 2430  ls
+ 2431  cd _02_html
+ 2432  cd ..
+ 2433  cd _03_css
+ 2434  l
+ 2435  ls
+ 2436  cd your-solution
+ 2437  live-server
+ 2438  git add .
+ 2439  git commit -m 'day 3 css work upload'
+ 2440  git push origin master
+ 2441  cd ..
+ 2442  cd 04
+ 2443  ls
+ 2444  cd _04_javascript
+ 2445  ls
+ 2446  sbl readme.md
+ 2447  ls
+ 2448  cd ..
+ 2449  cd _05_jquery
+ 2450  ls
+ 2451  sbl readme.md
+ 2452  ls
+ 2453  cd ..
+ 2454  cd _06_personal-project
+ 2455  ls
+ 2456  sbl readme.md
+ 2457  git status
+ 2458  touch index.html
+ 2459  touch style.css
+ 2460  touch about.js
+ 2461  ls
+ 2462  sbl .
+ 2463  live-server
+ 2464  git add .
+ 2465  git commit -m 'initial page creation done'
+ 2466  git push origin master
+ 2467  live-server
+ 2468  cd Desktop
+ 2469  ls
+ 2470  git clone https://github.com/miniMAC/magic.git
+ 2471  cd Desktop
+ 2472  git clone https://github.com/daneden/animate.css.git
+ 2473  git add .
+ 2474  git status
+ 2475  git commit -m 'animation done. initial final page'
+ 2476  git push origin master
+ 2477  live-server
+ 2478  git add .
+ 2479  git commit -m 'production ready'
+ 2480  git push
+ 2481  live-server
+ 2482  git add .
+ 2483  git commit -m 'last style change'
+ 2484  git push origin master
+ 2485  cd
+ 2486  cd Desktop
+ 2487  ls
+ 2488  cd prework
+ 2489  ls
+ 2490  cd _06_personal-project
+ 2491  ls
+ 2492  live-server
+ 2493  cd
+ 2494  PATH
+ 2495  path
+ 2496  clear
+ 2497  unmame
+ 2498  uname
+ 2499  ls
+ 2500  s -G
+ 2501  ls -G
+ 2502  cd
+ 2503  clear
+ 2504  ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ 2505  brew update
+ 2506  brew doctor
+ 2507  brew prune
+ 2508  brew doctor
+ 2509  clear
+ 2510  url -fsSL https://git.io/vgqFU | ruby
+ 2511  clear
+ 2512  cd Desktop
+ 2513  git clone https://github.com/zsh-users/zsh-completions ~/.oh-my-zsh/custom/plugins/zsh-completions
+ 2514  cd
+ 2515  profile
+ 2516  .zshrc
+ 2517  atom .zshrc
+ 2518  which echo
+ 2519  git -v
+ 2520  git --v
+ 2521  git --version
+ 2522  brew install git
+ 2523  git config
+ 2524  git config global
+ 2525  git config --g
+ 2526  git config --global
+ 2527  clear
+ 2528  node -v
+ 2529  brew install node
+ 2530  node
+ 2531  atom ~/Desktop/test.js
+ 2532  node ~/Desktop/test.js
+ 2533  node
+ 2534  rm ~/Desktop/test.js
+ 2535  npm install -g surge
+ 2536  surge -V
+ 2537  mkdir ~/Projects
+ 2538  cd Projects
+ 2539  mkdir wcrusher.surge.sh
+ 2540  cd wcrusher.surge.sh
+ 2541  clear
+ 2542  cd
+ 2543  apm install pigments
+ 2544  api install linter
+ 2545  apm install linter
+ 2546  apm install autoclose-html
+ 2547  apm install jshint
+ 2548  cd Desktop
+ 2549  ls
+ 2550  cd prework
+ 2551  ls
+ 2552  cd _06
+ 2553  cd _06_personal-project
+ 2554  ls
+ 2555  atom .
+ 2556  cd ~/.atom/packages
+ 2557  git clone https://github.com/emmetio/emmet-atom
+ 2558  cd emmet-atom
+ 2559  npm install
+ 2560  cd
+ 2561  clear
+ 2562  ls -la
+ 2563  git --version
+ 2564  $PATH
+ 2565  echo $PATH
+ 2566  ls
+ 2567  profile
+ 2568  PATH
+ 2569  curl -fsSL https://git.io/vgqFH | sh
+ 2570  echo PATH
+ 2571  echo $PATH
+ 2572  cd Desktop
+ 2573  ls
+ 2574  cd prework/_06_personal-project
+ 2575  ls
+ 2576  git ommit
+ 2577  git commit
+ 2578  touch test.js
+ 2579  ls
+ 2580  git add .
+ 2581  git commit
+ 2582  profile
+ 2583  cd
+ 2584  cd ..
+ 2585  cd
+ 2586  clear
+ 2587  profile
+ 2588  brew install node
+ 2589  cd
+ 2590  clear
+ 2591  brew link node
+ 2592  brew link --overwrite node
+ 2593  node -v
+ 2594  node
+ 2595  node -v
+ 2596  for (i = 0; i < cars.length; i++) {
+ 2597  node
+ 2598  clear
+ 2599  node
+ 2600  atom ~/Desktop/test.js
+ 2601  cd Desktop
+ 2602  node ~/Desktop/test.js
+ 2603  rm ~/Desktop/test.js
+ 2604  cd
+ 2605  surge -V
+ 2606  ls
+ 2607  cd Projects
+ 2608  ls
+ 2609  cd wcrusher.surge.sh
+ 2610  git init
+ 2611  ls
+ 2612  cd
+ 2613  cd Desktop
+ 2614  cd \ Project
+ 2615  cd pr
+ 2616  cd \ Project
+ 2617  ls
+ 2618  cd Pr
+ 2619  cd Projects
+ 2620  ls
+ 2621  cd
+ 2622  ls
+ 2623  rm -rf Projects
+ 2624  atom index.html
+ 2625  rm index.html
+ 2626  ls
+ 2627  cd node_modules
+ 2628  ls
+ 2629  cd
+ 2630  ls
+ 2631  cd Desktop
+ 2632  cd galvanize
+ 2633  ls
+ 2634  mkdir week01
+ 2635  cd week01
+ 2636  ls
+ 2637  mkdir hbcrusher.surge.sh
+ 2638  ls
+ 2639  cd hbcrusher.surge.sh
+ 2640  git init
+ 2641  touch index.html
+ 2642  ls
+ 2643  atom .
+ 2644  open index.html
+ 2645  git add index.html
+ 2646  ls
+ 2647  git commit -m 'add a tiny webpage'
+ 2648  touch CNAME
+ 2649  git add CNAME
+ 2650  git commit -m 'add a cname'
+ 2651  surge
+ 2652  echo $HOME
+ 2653  clear
+ 2654  whoami
+ 2655  clear
+ 2656  whoami
+ 2657  which whoami
+ 2658  which $PATH
+ 2659  pwd
+ 2660  cd
+ 2661  ls
+ 2662  pwd
+ 2663  echo ~
+ 2664  ~
+ 2665  cd Desktop
+ 2666  ~
+ 2667  cd
+ 2668  open .
+ 2669  open henrybi/Picture
+ 2670  open Pictures/
+ 2671  ls
+ 2672  ls -la
+ 2673  ls
+ 2674  ls -l
+ 2675  cd Creative\ Cloud\\ncd
+ 2676  .exit
+ 2677  ls -l
+ 2678  cd Creative\ Cloud\ Files
+ 2679  ls
+ 2680  ls -l
+ 2681  open
+ 2682  open Icon
+ 2683  ls -l
+ 2684  cd
+ 2685  li ls
+ 2686  li -l
+ 2687  ls -la
+ 2688  atom .zsh-update
+ 2689  atom .zsh-history
+ 2690  atom .zshrc
+ 2691  ls -l
+ 2692  ls -t
+ 2693  ls -lt
+ 2694  ls -r
+ 2695  ls -tr
+ 2696  man ls
+ 2697  ls -R
+ 2698  man ls
+ 2699  ls -F
+ 2700  open .
+ 2701  ls -i
+ 2702  ls
+ 2703  ls -l
+ 2704  ls -la
+ 2705  ls -t
+ 2706  ls -T
+ 2707  ls-@
+ 2708  ls -!
+ 2709  ls -l@
+ 2710  ls -a
+ 2711  atom .atom
+ 2712  atom .oh-my-zsh
+ 2713  atom .
+ 2714  cd Desktop
+ 2715  ls
+ 2716  cd galvanize
+ 2717  cd prework
+ 2718  ls
+ 2719  cd _06_personal-project
+ 2720  surge
+ 2721  brew install tree
+ 2722  cd
+ 2723  brew install tree
+ 2724  tree
+ 2725  cd /
+ 2726  ls
+ 2727  pwd
+ 2728  ls -l
+ 2729  cd Applications
+ 2730  ls
+ 2731  cd
+ 2732  cd ~
+ 2733  cd ..
+ 2734  cd Users
+ 2735  cd ..
+ 2736  profile
+ 2737  ls
+ 2738  cd Desktop
+ 2739  ls
+ 2740  cd YMSW
+ 2741  cdd
+ 2742  cd Desktop
+ 2743  ls
+ 2744  cd Videos
+ 2745  ls
+ 2746  cdd
+ 2747  ..
+ 2748  ...
+ 2749  edit
+ 2750  ls
+ 2751  cd henrybi
+ 2752  ls
+ 2753  cd Desktop
+ 2754  la
+ 2755  ls
+ 2756  cd galvanize/prework
+ 2757  ls
+ 2758  cd _02_html
+ 2759  ls
+ 2760  edit readme.md
+ 2761  c
+ 2762  cd Desktop
+ 2763  ls
+ 2764  c
+ 2765  cd Pictures
+ 2766  ls
+ 2767  ..
+ 2768  ls
+ 2769  cd galvanize
+ 2770  ls
+ 2771  cd prework
+ 2772  ls
+ 2773  cd -07
+ 2774  cd _07_bonus
+ 2775  ls
+ 2776  ....
+ 2777  ls
+ 2778  take
+ 2779  cd Desktop/galvanize/prework/_06_personal-project
+ 2780  ls
+ 2781  surge
+ 2782  cd
+ 2783  c
+ 2784  cd Desktop
+ 2785  ls
+ 2786  cd Pr
+ 2787  ls
+ 2788  cd
+ 2789  la
+ 2790  ls
+ 2791  cd Desktop
+ 2792  ls
+ 2793  cd galvanize
+ 2794  ls
+ 2795  l
+ 2796  ls
+ 2797  cd week01
+ #create notebook dir then cd into it!
+ 2798  take notebook
+ 2799  touch notes.txt
+ #directs the history into notes.
+ 2825  history > notes.txt
+ 2827  atom notes.txt
+  # short cut for ls -lh
+ 2828  ll
+new addition
+more new addition
+Good commit message starts with a verb in present tense and please keep it short to the point!!

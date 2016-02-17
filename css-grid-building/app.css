@@ -1,0 +1,81 @@
+/*Your code here*/
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 40px;
+}
+
+
+#container{
+  background-color: #5182bb;
+  padding: 10px;
+}
+
+header{
+  height: 200px;
+  background-color: #be5150;
+}
+
+#container > section{
+  height: 220px;
+  background-color: #9cba5f;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+#container > section > section:nth-child(1) {
+  float: left;
+  width: 18%;
+  height: 180px;
+  background-color: #5182bb;
+  padding: 10px;
+}
+
+#container > section > section:nth-child(2) {
+  float: right;
+  width: 80%;
+  height: 180px;
+  background-color: #8066a0;
+  padding: 10px;
+}
+
+#container > section > section > aside {
+  background-color: #ffffff;
+  height: 80px;
+}
+
+#container > section > section > section {
+  background-color: #d9d9d9;
+  height: 70px;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+#container > section > section > section > article {
+  background-color: #fefd38;
+  height: 20px;
+  margin-bottom: 10px;
+}
+
+#container > section > section > article {
+  background-color: #fefd38;
+  height: 160px;
+}
+
+footer{
+  clear: both;
+  background-color: #f5964f;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+footer > nav {
+  background-color: #50acc4;
+  height: 60px;
+}
