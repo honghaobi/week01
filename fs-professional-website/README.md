@@ -28,7 +28,7 @@ Talking about oneself is hard and takes practice. This project is a great opport
 
 Good luck and have fun!
 
-[Bootstrap]: http://getbootstrap.com/getting-started/
+[wireframe]: file is in this repo named as wireframe.jpg
 [Surge]: http://surge.sh/help/getting-started-with-surge
 
 - Wireframe - https://github.com/honghaobi/fs-professional-website
