@@ -21,18 +21,24 @@ $logo.on("click", function(){
 
 $("#project").click(function() {
     $('html,body').animate({
-        scrollTop: $("#projectPage").offset().top},
-        'slow');
+      scrollTop: $("#projectPage").offset().top},
+      'slow');
+
+      setTimeout(function(){
+        $(".project-img").addClass("animated flipInX");
+      }, 200);
+
 });
 
 $("#about").click(function() {
     $('html,body').animate({
-        scrollTop: $("#aboutPage").offset().top},
-        'slow');
+      scrollTop: $("#aboutPage").offset().top},
+      'slow');
 });
 
 $(".logoN").click(function() {
     $('html,body').animate({
-        scrollTop: 0},
-        'slow');
+      scrollTop: 0},
+      'slow');
+
 });
